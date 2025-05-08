@@ -1,3 +1,3 @@
 # GPTFinancial
-"# GPTFinancial" 
+# GPTFinancial 
 # GPTFinancial
