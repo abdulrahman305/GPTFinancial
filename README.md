@@ -1,11 +1,9 @@
 # GPTFinancial
 
 ## Introduction
-GPTFinancial is a financial management tool designed to help users manage their finances efficiently. It provides features such as budgeting, expense tracking, financial reporting, and financial market analysis to help users make informed financial decisions.
+GPTFinancial is a financial market analysis tool designed to help users analyze and get a good outlook of the financial markets. It provides features such as financial reporting and financial market analysis to help users make informed financial decisions.
 
 ## Features
-- Budgeting: Create and manage budgets to track your spending.
-- Expense Tracking: Record and categorize your expenses.
 - Financial Reporting: Generate reports to analyze your financial data.
 - Financial Market Analysis: Analyze and get a good outlook of the financial markets.
 - User-friendly Interface: Easy-to-use interface for managing your finances.
@@ -21,10 +19,8 @@ To install GPTFinancial, follow these steps:
 To use GPTFinancial, follow these steps:
 1. Open the application in your web browser.
 2. Create an account or log in if you already have one.
-3. Set up your budget by adding income and expense categories.
-4. Record your expenses and income to track your financial activity.
-5. Generate financial reports to analyze your spending and make informed decisions.
-6. Use the financial market analysis feature to get insights and a good outlook of the financial markets.
+3. Use the financial market analysis feature to get insights and a good outlook of the financial markets.
+4. Generate financial reports to analyze your financial data and make informed decisions.
 
 ## Contributing
 We welcome contributions to GPTFinancial! To contribute, follow these steps:
