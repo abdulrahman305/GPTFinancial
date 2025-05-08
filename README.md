@@ -36,4 +36,4 @@ We welcome contributions to GPTFinancial! To contribute, follow these steps:
 GPTFinancial is distributed under the GNU General Public License v2.0. See the `LICENSE` file for more information.
 
 ## Contact Information
-For any questions or inquiries, please contact the project maintainers at [owner@sauditech.link].
+For any questions or inquiries, please contact the project maintainers at [email@example.com].
